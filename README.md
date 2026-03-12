@@ -429,4 +429,4 @@ Made with passion for healthcare and machine learning.
 - **v1.0** (Feb 2026) - Initial release with Logistic Regression model
 - Documentation: Complete and comprehensive
 - Status: Active Development
-
+  . .. .... 
